@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/orbital99/Pipelines/_apis/build/status/orbital99.pipelines-java?branchName=master)](https://dev.azure.com/orbital99/Pipelines/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
